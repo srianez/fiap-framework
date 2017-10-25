@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot Blank Project (from https://github.c
+ om/making/spring-boot-blank)
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Silas
+Implementation-Vendor-Id: br.com.fiap
+Build-Jdk: 1.8.0_144
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: br.com.fiap.aula2_Maven_Project.App
+
